@@ -12,7 +12,7 @@ spec:
           labels: 
              app: myapp
              version: 2.6.1
-        spec: 
+        spec:
          containers:
             - name: myapp-container
               image: nvrk1972/myjavaapp31dec24:1
